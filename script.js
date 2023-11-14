@@ -28,7 +28,7 @@ const contagemRegressica = () => {
     }
 
     tempoDecorridoEmSegundos -= 1
-    mostrarTempo ()
+    mostrarTempo (tempoDecorridoEmSegundos)
     
 }
 
