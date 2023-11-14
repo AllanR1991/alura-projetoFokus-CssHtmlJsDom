@@ -50,7 +50,7 @@ function iniciarOuPausar() {
 function zerar() {
     clearInterval(intervaloId)
     iniciarOuPausarBt.textContent = "Começar"
-    iconeBotaoIniciarPausar.setAttribute('src','/imagens/play_arrow.png')
+    iconeBotaoIniciarPausar.setAttribute('src','./imagens/play_arrow.png')
     intervaloId = null
 }
 
@@ -72,7 +72,7 @@ botoesTempo.forEach(botao => {
         
         // setAttribute -> seta ou melhor define um valor para o primeiro paramentro que corresponde ao atributo e segundo parametro é o valor que se deseja colocar nesse atributo.
         html.setAttribute('data-contexto', valorDataContext )
-        banner.setAttribute('src',`/imagens/${valorDataContext}.png`)
+        banner.setAttribute('src',`./imagens/${valorDataContext}.png`)
         //console.log(botao.attributes[0].value)
 
         /* Muda o titulo da pagina conforme o botão selecionado. */
