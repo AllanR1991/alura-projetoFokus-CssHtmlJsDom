@@ -19,7 +19,7 @@ Projeto criado para aprendizado de JavaScript ao qual forma abordados os seguint
   - Printando tempo na tela
   - Formatando tempo com objeto Date
 
-Neste projeto é possivel clicar nos botões e ouvir sons que são disparados ao clicar sobre eles.
+Este projeto é uma versão do Pomodoro - A Técnica Pomodoro é um método de gerenciamento de tempo desenvolvido por Francesco Cirillo no final dos anos 1980. A técnica consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos..
 
 ![image](https://github.com/AllanR1991/alura-projetoFokus-CssHtmlJsDom/assets/22855740/1b48f5b5-df33-4727-8b93-7206f610aed4)
 
